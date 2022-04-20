@@ -1,4 +1,4 @@
-Hello, my name is Zane Hirning and I am an aspiring software developer/any tech developer. I am currently pursuing a degree in computer science at Utah State University. My GPA is currently a 3.5, and I was an honors student in highschool with a 3.97 GPA
+Hello, my name is Zane Hirning and I am an aspiring software developer/any tech developer. I am currently pursuing a degree in computer science at Utah State University. My GPA is currently a 3.5, and I was an honors student in highschool with a 3.97 GPA.
 
 In my freetime, I like to code programs and try to learn different languages/skills. I have always had a passion for innovation and learning new things.
 
