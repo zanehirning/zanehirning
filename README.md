@@ -10,7 +10,6 @@ Currently a Junior at Utah State University pursuing a degree in Computer Scienc
 * 🌍  I'm based in Utah
 * 🖥️  See my portfolio at [my portfolio](http://zanehirning-portfolio.netlify.app/)
 * ✉️  You can contact me at [zanehirning41@gmail.com](mailto:zanehirning41@gmail.com)
-* 🧠  I'm learning MongoDB and MySQL
 
 ### Skills
 
