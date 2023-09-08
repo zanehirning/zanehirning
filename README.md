@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zane Hirning
 ====================================================================================================================================
 
-Backend Developer
+Software Developer
 -----------------
 
 Currently a Junior at Utah State University pursuing a degree in Computer Science. I have many skills in different languages, and I am looking to take on an internship/job to broaden the list of things I am capable of.
